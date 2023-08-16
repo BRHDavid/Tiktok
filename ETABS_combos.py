@@ -1,4 +1,3 @@
-import pandas as pd
 import comtypes.client
 
 #Conectar a etabs
